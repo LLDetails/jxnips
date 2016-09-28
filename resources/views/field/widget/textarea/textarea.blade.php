@@ -1,0 +1,1 @@
+<textarea class="form-control" name="{{ $field->name }}" style="height:120px;" placeholder="{{ $field->display }}">{{ old($field->name, $value) }}</textarea>

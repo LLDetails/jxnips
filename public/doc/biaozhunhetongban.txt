@@ -1,0 +1,184 @@
+<p style="text-align:center;line-height:16px">
+    <span style=";font-family:微软雅黑;font-weight:bold;font-size:19px">采&nbsp;购&nbsp;合&nbsp;同</span>
+</p>
+<p style="text-align:center;line-height:16px">
+    <span style=";font-family:微软雅黑;font-weight:bold;font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=";font-family:微软雅黑;font-size:14px">合同编号：</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">签订时间：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;签订地点：</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">买方：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;卖方：</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">地址：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;地址：</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">电话：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电话：</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">传真：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传真：</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">买方指定联系人：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;卖方指定联系人：</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="text-indent: 42px;line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">买卖双方经平等、自愿协商，根据《中华人民共和国合同法》的有关规定，同意按下列条款签订本合同。</span>
+</p>
+<p style="line-height: 16px">
+	<span style=";font-family:微软雅黑;font-size:14px">一、产品名称、规格、数量、金额</span>
+</p>
+<table>
+    <tbody>
+        <tr style="height:28px" class="firstRow">
+            <td width="115" valign="top" style="padding: 0px 7px; border: 1px solid windowtext;" class="selectTdClass">
+                <p style="line-height: 16px">
+                    <span style=";font-family:微软雅黑;font-size:14px">产品名称</span>
+                </p>
+            </td>
+            <td width="96" valign="top" style="padding: 0px 7px; border-style: solid; border-width: 1px; border-right-color: windowtext; border-top-color: windowtext; border-bottom-color: windowtext;" class="selectTdClass">
+                <p style="line-height: 16px">
+                    <span style=";font-family:微软雅黑;font-size:14px">包装/规格</span>
+                </p>
+            </td>
+            <td width="108" valign="top" style="padding: 0px 7px; border-style: solid; border-width: 1px; border-right-color: windowtext; border-top-color: windowtext; border-bottom-color: windowtext;" class="selectTdClass">
+                <p style="line-height: 16px">
+                    <span style=";font-family:微软雅黑;font-size:14px">单价（元/吨）</span>
+                </p>
+            </td>
+            <td width="144" valign="top" style="padding: 0px 7px; border-style: solid; border-width: 1px; border-right-color: windowtext; border-top-color: windowtext; border-bottom-color: windowtext;" class="selectTdClass">
+                <p style="line-height: 16px">
+                    <span style=";font-family:微软雅黑;font-size:14px">数量（吨）</span>
+                </p>
+            </td>
+            <td width="108" valign="top" style="padding: 0px 7px; border-style: solid; border-width: 1px; border-right-color: windowtext; border-top-color: windowtext; border-bottom-color: windowtext;" class="selectTdClass">
+                <p style="line-height: 16px">
+                    <span style=";font-family:微软雅黑;font-size:14px">合同金额（元）</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="130" valign="top" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-bottom-color: windowtext;" class="selectTdClass">&nbsp;</td>
+            <td width="96" valign="top" style="padding: 0px 7px; border-style: solid; border-width: 1px; border-right-color: windowtext; border-bottom-color: windowtext;" class="selectTdClass">&nbsp;</td>
+            <td width="108" valign="top" style="padding: 0px 7px; border-style: solid; border-width: 1px; border-right-color: windowtext; border-bottom-color: windowtext;" class="selectTdClass">&nbsp;</td>
+           
+            <td width="144" valign="top" style="padding: 0px 7px; border-style: solid; border-width: 1px; border-right-color: windowtext; border-bottom-color: windowtext;" class="selectTdClass">&nbsp;</td>
+            <td width="108" valign="top" style="padding: 0px 7px; border-style: solid; border-width: 1px; border-right-color: windowtext; border-bottom-color: windowtext;" class="selectTdClass">&nbsp;</td>
+        </tr>
+        <tr>
+            <td width="130" valign="top" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-bottom-color: windowtext;" class="selectTdClass">
+                <p style="line-height: 16px">
+                    <span style=";font-family:微软雅黑;font-size:14px">合计人民币总金额</span>
+                </p>
+            </td>
+            <td width="528" valign="top" colspan="5" style="padding: 0px 7px; border-style: solid; border-width: 1px; border-right-color: windowtext; border-bottom-color: windowtext;" class="selectTdClass">
+                <p style="line-height: 16px">
+                    <span style=";font-family:微软雅黑;font-size:14px">大写：</span><span style=";font-family:微软雅黑;text-decoration:underline;font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">二、①质量标准：</span><span style=";font-family:微软雅黑;text-decoration:underline;font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;text-decoration:underline;font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</p>
+<p style="margin-left: 28px;line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">②交货原料生产日期离到货日期不得超过</span><span style=";font-family:微软雅黑;text-decoration:underline;font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=";font-family:微软雅黑;font-size:14px">天</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">三、包装：</span><span style=";font-family:微软雅黑;font-size:14px">包装物每件扣重</span><span style=";font-family:微软雅黑;text-decoration:underline;font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=";font-family:微软雅黑;font-size:14px">g，不计价，不返还。</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">四、交货或提货时间：</span><span style=";font-family:微软雅黑;text-decoration:underline;font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">五、交（接）货地点、方式：</span><span style=";font-family:微软雅黑;text-decoration:underline;font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">六、运输</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">①运输方式和费用承担方式：</span><span style=";font-family:微软雅黑;text-decoration:underline;font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">②货物保险的办理及费用承担：a有□&nbsp;&nbsp;b无□；&nbsp;&nbsp;费用由&nbsp;&nbsp;a买方□&nbsp;b买方□&nbsp;&nbsp;&nbsp;&nbsp;承担。</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">③风险承担：货物损毁灭失的风险，在货物交付买方之前由卖方承担，交付买方之后由买方承担，交付以买方签收并实际占有为准，货交第三方承运的不视为买方实际占有。</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">七、验收</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">①交货重量：以a买方□&nbsp;&nbsp;b卖方□&nbsp;&nbsp;c双方认可的第三方（&nbsp;&nbsp;）□&nbsp;&nbsp;的地磅所称重量为准。</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">②合理损耗和计算方法：</span><span style=";font-family:微软雅黑;text-decoration:underline;font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</p>
+
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">③验收标准、方法及提出异议期限：</span><span style=";font-family:微软雅黑;text-decoration:underline;font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">八、结算支付：</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">①买方于货到验收合格并收到卖方发票后</span><span style=";font-family:微软雅黑;text-decoration:underline;font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=";font-family:微软雅黑;font-size:14px">日内付款。分批交货的，可分批结算。</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">②付款方式：a电汇□&nbsp;&nbsp;b支票□&nbsp;&nbsp;c现金□&nbsp;&nbsp;d其他□：</span><span style=";font-family:微软雅黑;text-decoration:underline;font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">九、违约责任：</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">①卖方逾期交货或未按约定的质量交货的，买方有权拒收货物、解除合同，由此产生的损失及费用由卖方承担。</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">②卖方逾期交货，而买方仍同意收货的：在交货时遇货物市场价格上涨的，买方仍按本合同约定价格结算，在交货时遇货物市场价格下降的，买方按交货时的市场价格结算，或另以补充合同签订确定。</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">③卖方未按约定的质量交货的，而买方仍同意收货的：买方有权选择按照卖方交货产品质量结算或在没有给买方带来经济损失的前提下要求卖方在指定期限内交换货；买方正确使用卖方产品而给买方造成损失的，由卖方承担赔偿责任，包括但不限于使用卖方产品生产成品不合格的责任、买方不能正常向自己的客户交付产品的责任。</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">④卖方未按约定重量交货的，买方有权选择按实际交货重量结算或要求卖方在指定期限内按照约定重量交货，若卖方不同意，买方有权解除合同，由此带来的损失由卖方自行承担。</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">十、不可抗拒力：由于战争、地震、水灾、火灾、暴风雪或其他不可抗力原因而不能履行合同的一方不负有违约责任，但应于不可抗因素消除后5日内向对方提交相关证明文件。卖方未能与承运人达成运输协议而无法按时交货的，不视为不可抗拒力，不能免除违约责任，需承担延期交货</span><span style=";font-family:微软雅黑;text-decoration:underline;font-size:14px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=";font-family:微软雅黑;font-size:14px">元/每天&nbsp;&nbsp;/吨的违约责任。</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">十一、争议的处理：因本合同履行过程中出现的任何争议，应本着友好协商的原则解决，如协商未达成，由签约地所在的人民法院仲裁。</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">十二、其他约定</span>
+</p>
+<p style="margin-left: 48px;line-height: 16px">
+    <span style="font-family:微软雅黑;font-size:14px">①&nbsp;</span><span style=";font-family:微软雅黑;font-size:14px">本合同的约定条款是买卖双方自愿协商的结果，其任何条款并不构成任一方的格式条款。</span>
+</p>
+<p style="margin-left: 48px;line-height: 16px">
+    <span style="font-family:微软雅黑;font-size:14px">②&nbsp;</span><span style=";font-family:微软雅黑;font-size:14px">若超过合同约定有限期限未执行完毕，余下未执行部分必须双方再确认后，方能生效。</span>
+</p>
+<p style="margin-left: 48px;line-height: 16px">
+    <span style="font-family:微软雅黑;font-size:14px">③&nbsp;</span><span style=";font-family:微软雅黑;font-size:14px">合同中价格约定后，无特殊情况双方均不得提出调价。</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">十三、本合同一经签订，双方此前的就买卖货物所签署的任何形式的文件、传真、电子数据自动失效，一切以本合同为准。本合同一式贰份，买卖双方各执壹份，具有同等法律效力。本合同自双方签字盖章后生效，传真件有效。</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">买方：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;卖方：</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">法定代表人（或授权人）：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;法定代表人（或授权人）：</span>
+</p>
+<p style="line-height: 16px">
+    <span style=";font-family:微软雅黑;font-size:14px">盖章：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;盖章：</span>
+</p>

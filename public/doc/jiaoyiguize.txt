@@ -1,0 +1,273 @@
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第一章　总&nbsp;则</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第一条　为规范交易平台的交易行为，保护交易当事人的合法权益，根据国家有关法律、法规、规章，制定本规则。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第二条　深圳市金新农易诚荟电子商务有限公司（以下简称易诚荟）根据公开、公平、公正和诚实信用的原则,&nbsp;组织饲料原料、饲料、药品、疫苗、生猪等现货或现货远期交易活动。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第三条　本规则适用于易诚荟交易平台组织的商品交易活动。会员、客户等其他平台交易参与者应当遵守本规则。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第二章　交易商品及服务</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第四条　生猪产业链相关商品，包括但不限于饲料原料、添加剂、饲料、兽药、疫苗、生猪、种猪等。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第五条　交易平台提供的价格保险、授信融资或保理服务等。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第六条　交易平台所提供的交易商品及服务行为均通过标准合同条款包括但不限于对交易商品或服务标的、价格、数量、质量、交易时间、地点等明确。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第三章　会员管理</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第七条　会员是经交易平台管理方核准有权在易诚荟交易平台从事交易的企业法人或者其他经济组织。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第八条　易诚荟交易平台的会员分为采购商、供应商、服务商。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第九条　会员资格的批准、变更和终止，须经交易平台管理方核准，并予以公布。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第十条　会员享有下列权利：</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（一）在易诚荟交易平台从事规定的交易、服务等业务；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（二）使用易诚荟交易平台提供的交易软件，获得有关交易的信息和服务；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（三）按照易诚荟交易平台交易规则行使申诉权；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（四）易诚荟交易平台交易规则及其实施细则规定的其他权利。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第十一条　会员应当履行下列义务：</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（一）遵守国家有关法律、法规、规章；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（二）遵守易诚荟交易平台交易规则及流程；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（三）按照规定缴纳交易费用；</span><span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（四）接受易诚荟交易平台对交易或服务行为的监督管理；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（五）履行交易双方所签订合同中规定的相关义务；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第十二条　会员出现下列情形之一的，交易平台有权限制、暂停其业务或者调整、取消其会员资格：</span><span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（一）交易方数量及报价信息不真实，存在恶意报价或欺诈行为；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（二）连续两次无理由不参与买方邀请报价或竞价、招标行为；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（三）交易方在合同确认后出现非不可抗力原因导致的不履行合同的行为；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第十三条　交易平台可以根据市场发展，对会员的业务运作、风险管理、技术系统等提出要求，会员应当持续满足上述要求。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第四章　交易业务</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第十四条　易诚荟交易平台的交易业务是指由采购商发起的经平台按照管理流程审核后邀请供应商参与的邀标或竞标的交易活动。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第十五条　交易活动不定期发生，由平台通过短信、互联网即时发送到供应商手机或网络，同时约定每次交易活动的交易规则及交易活动的截止时间，交易双方需在约定的时间内完成交易的撮合；</span><span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第十六条&nbsp;&nbsp;交易活动经撮合成交后，交易即告成立。买卖双方应当承认交易结果，履行相关义务。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第十七条　会员进行交易，在交易完成后应当按照交易额的千分之三向平台缴纳交易手续费。交易手续费收取标准由平台制定并保留调整的权利。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第五章　增值服务</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第十八条　增值服务是指在交易业务的基础上由易诚荟交易平台提供给交易双方的额外服务</span><span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span><span style=";font-family:微软雅黑;font-size:14px">。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第十九条　增值服务主要包括但不限于以下内容：</span><span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（一）一旦买方未在约定的时间付款，则平台负责将约定交易款项支付卖方，交易平台代为履约后，取得对违约会员的相应追偿权，向买方收取滞期支付资金的利息（同期银行利率的四倍）。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（二）一旦卖方无法按时交货则平台有义务组织货源交货，确保买方生产正常进行；交易平台代为履约后，取得对违约会员的相应追偿权，向卖方追偿延期交货损失的责任。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（三）交易双方在平台交易时，平台提供买入看涨或看跌期权等价格保险服务给交易双方，以降低交易双方的市场行情风险；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（四）通过平台交易的任何一方有融资需求时，均可向平台提出申请，平台可以根据交易历史及通过第三方评估交易方资信，给予一定额度的授信融资或保理服务；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第六章　风险控制</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第二十条&nbsp;&nbsp;交易平台主要通过强化会员资质审核、在交易规则中的最高最低报价限制、成交数量的分配原则及交易合同条款来维护买卖双方权益，降低因市场风险对交易任何一方的不公平；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第二十一条　对于非经交易平台审核评定认可并邀请的需要参与平台交易的交易商（包括但不限于采购商、销售商、服务商等），需要提供一定额度的交易保证金。该交易保证金通过平台的其它经营业务来确保交易双方的权益及增值。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第二十二条　交易平台会根据市场行情变化及客户资信情况即时提醒交易双方在执行合同的进度情况，以警示和化解风险。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第二十三条　交易平台采取上述风险控制措施后仍然无法释放风险的，交易平台有权宣布进入交易异常情况，由交易平台决定是否采取进一步的风险控制措施。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第七章　异常情况处理</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第二十四条　在平台交易过程中，出现下列情形之一的，交易平台可以宣布进入异常情况，采取紧急措施化解风险：&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（一）因地震、水灾、火灾等不可抗力或者计算机系统故障等不可归责于交易平台的原因导致交易无法正常进行；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（二）会员出现结算、货物交割危机，对交易的另一方正在产生或者将产生重大影响；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（三）因交易异常情况及交易平台采取的相应措施造成的损失，交易平台不承担责任。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第八章　信息管理</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第二十五条　易诚荟交易平台所有交易数据、统计资料、结算资料等由交易平台统一管理与发布；</span><span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第二十六条　为保证交易数据的安全，交易平台负责数据安全备份；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第二十七条　交易平台及交易会员不得发布虚假的或者带有误导性质的信息。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第二十八条　因不可抗力、意外事件、交易平台系统被非法侵入等原因导致交易信息传输发生异常或者中断的，交易平台不承担责任。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第九章　监督管理</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第二十九条　交易平台依据本规则对与交易平台有关的业务活动实施监督管理。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第三十条　交易平台监督管理包括但不限于以下主要内容：</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（一）交易规则及其细则的落实执行情况；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（二）交易双方合同执行情况及异议投诉处理；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（三）了解跟踪交易会员的财务、资信状况；</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">（四）对其他违背“公开、公平、公正”原则、扰乱交易秩序、制造风险的行为进行监督管理。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第三十一条　交易平台负责对参与平台交易方违规违约行为进行处理。&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第十章　争议处理</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第三十二条　参与平台交易的双方就交易合同等发生的有关业务纠纷,可以通过自行协商解决、提请交易平台调解、向仲裁机构申请仲裁或者向平台方所在人民法院提起诉讼等方式解决。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第三十三条　提请交易平台调解的当事人,&nbsp;由交易平台制作调解书，经双方当事人在调解书上签字确认后生效。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第十一章　附&nbsp;则</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">&nbsp;</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第三十四条　易诚荟交易平台可以根据本规则制定实施细则或者办法。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第三十五条　本规则由深圳市金新农易诚荟电子商务有限公司负责解释。</span>
+</p>
+<p style="line-height:16px">
+    <span style=";font-family:微软雅黑;font-size:14px">第三十六条　本规则自2015年10月1日起施行。</span>
+</p>

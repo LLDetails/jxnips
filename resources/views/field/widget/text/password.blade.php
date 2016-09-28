@@ -1,0 +1,1 @@
+<input type="password" class="form-control input-sm" name="{{ $field->name }}" value="" placeholder="{{ $field->prompt }}">

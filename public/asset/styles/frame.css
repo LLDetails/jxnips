@@ -1,0 +1,33 @@
+body {
+    padding-top:15px;
+    font-family:"Microsoft YaHei",'微软雅黑';
+    color: #666666;
+    font-size:12px;
+}
+
+.input-group * {
+    border-radius: 0;
+}
+
+.pagination {
+    margin-top: 0;
+    float: right;
+}
+
+.table th {
+    font-size: 14px;
+}
+
+.table td {
+    font-size: 12px;
+    color: #666666;
+}
+
+table.list tr td {
+    line-height: 22px;
+}
+
+.form-group.form-group-sm .form-msg {
+    text-align: left;
+    color: #f50000;
+}
